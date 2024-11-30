@@ -27,15 +27,17 @@
 
 3. **setup database**
 
-````base
+```base
 cp .env.example .env
 php artisan migrate
+```
 
 4. **jalankan aplikasi**
+
 ```bash
 php artisan serve
 
 
 
 
-````
+```
